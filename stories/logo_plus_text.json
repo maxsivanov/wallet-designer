@@ -1,0 +1,28 @@
+{
+    "icon": "image.icon.demo",
+    "logo": "logo",
+    "strip": "image.stripe.demo",
+    "sec": [
+        {
+            "key": "holder",
+            "descr": "Holder",
+            "value": "Ivanov Ivan"
+        },
+        {
+            "key": "site",
+            "descr": "Website",
+            "value": "http://www.example.com"
+        }
+    ],
+    "back": [],
+    "pri": [],
+	"hdr": [{
+		"key": "site",
+		"descr": "Type",
+		"value": "VIP"
+	}],
+    "logoText": "Logo text",
+    "labelColor": "rgb(255,0,0)",
+    "backgroundColor": "rgb(0,0,0)",
+    "foregroundColor": "rgb(255,255,255)"
+}

@@ -1,0 +1,44 @@
+{
+    "icon": "image.icon.demo",
+    "logo": "logo",
+    "strip": "image.stripe.demo",
+    "sec": [
+        {
+            "key": "holder",
+            "descr": "Holder",
+            "value": "Ivanov Ivan"
+        },
+        {
+            "key": "site",
+            "descr": "Website",
+            "value": "http://www.example.com"
+        }
+    ],
+    "back": [
+        {
+            "key": "text1",
+            "descr": "Rules",
+            "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+            "key": "text2",
+            "descr": "Client support",
+            "value": "+37120000000"
+        },
+        {
+            "key": "text3",
+            "descr": "Client support",
+            "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+    ],
+    "pri": [],
+	"hdr": [{
+		"key": "site",
+		"descr": "Type",
+		"value": "VIP"
+	}],
+    "logoText": "",
+    "labelColor": "rgb(255,0,0)",
+    "backgroundColor": "rgb(0,0,0)",
+    "foregroundColor": "rgb(255,255,255)"
+}
